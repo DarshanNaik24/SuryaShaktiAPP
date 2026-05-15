@@ -54,7 +54,7 @@
 ### Download SuryaShakti APK directly in you phone using
 **Download apk from drive**
 ```bash
-   Drive https://drive.google.com/file/d/1CIkLPvz70ZMMYBZxxb3-DKZoD2MMW3bE/view?usp=drive_link
+   https://drive.google.com/file/d/1CIkLPvz70ZMMYBZxxb3-DKZoD2MMW3bE/view?usp=drive_link
    ```
 
 ## 🛠️ Tech Stack
